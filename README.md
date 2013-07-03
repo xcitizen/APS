@@ -1,4 +1,4 @@
 APS
 ===
 
-Appinventor Personal Server
+Appinventor Personal Server (Windows version)
